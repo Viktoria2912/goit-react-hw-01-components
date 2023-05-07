@@ -1,4 +1,13 @@
-.friends {
+.friendList {
+    list-style: none;
+    padding: 0;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/* .friends {
     display: flex;
     align-items: center;
     margin-top: 30px;
@@ -47,4 +56,4 @@
     font-size: 30px;
     margin-bottom: 15px;
     color: #524a4d;
-}
+} */
